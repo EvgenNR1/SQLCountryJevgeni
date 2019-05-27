@@ -2,6 +2,6 @@
 чье имя(city) начинается на А.
 
 SELECT * FROM town
-WHERE city like "%A"
+WHERE city like "A%"
 
 modified

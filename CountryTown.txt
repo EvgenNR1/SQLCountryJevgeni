@@ -1,5 +1,5 @@
 ﻿Дополни SQL запрос, добавь условие что из таблицы Country будут отображаться только города на букву О
 SELECT * FROM Country
-WHERE cities like "%O"
+WHERE cities like "O%"
 
 modified
