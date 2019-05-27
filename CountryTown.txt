@@ -1,3 +1,8 @@
 ﻿Дополни SQL запрос, добавь условие что из таблицы Country будут отображаться только города на букву О
+<<<<<<< HEAD
 SELECT * FROM country
 WHERE city LIKE "o%"
+=======
+SELECT * FROM ...
+WHERE ...
+>>>>>>> master
