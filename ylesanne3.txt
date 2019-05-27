@@ -4,4 +4,4 @@
 SELECT * FROM town
 WHERE city like "A%"
 
-modified
+modified 1
